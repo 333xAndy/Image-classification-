@@ -41,7 +41,7 @@ This model is useful for single - label applications. That is, prediciting what 
 Model accuracy at the time of this README is 60%.
 
 # Acknowledgemnets
-[Tensorflow install](https://www.tensorflow.org/install)
-[Tensorflow image classification](https://www.tensorflow.org/tutorials/images/classification)
-[Keras Developer Guides](https://keras.io/guides/)
-[Cats and Dogs imageset](https://www.kaggle.com/datasets)
+[Tensorflow install](https://www.tensorflow.org/install)  
+[Tensorflow image classification](https://www.tensorflow.org/tutorials/images/classification)  
+[Keras Developer Guides](https://keras.io/guides/)  
+[Cats and Dogs imageset](https://www.kaggle.com/datasets)  
