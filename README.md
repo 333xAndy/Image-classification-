@@ -1,3 +1,4 @@
 # Image-classification
 
-Training an image classifier using tensorflow..
+Training an image classifier using tensorflow.
+
