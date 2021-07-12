@@ -14,4 +14,4 @@ Training an image classifier using tensorflow.
 </details> 
 
 
-#About the project
+# About the project
